@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/raineurysm-v2.html" }]
+  "rewrites": [{ "source": "/", "destination": "/raineurysm-v3.html" }]
 }
